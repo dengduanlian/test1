@@ -17,7 +17,7 @@ import java.util.List;
 import javax.validation.constraints.*;
 import io.servicecomb.provider.rest.common.RestSchema;
 
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.CseSpringCodegen", date = "2017-09-18T06:16:39.388Z")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.CseSpringCodegen", date = "2017-09-27T07:11:56.071Z")
 
 @RestSchema(schemaId = "csedemo")
 @RequestMapping(path = "/controller", produces = MediaType.APPLICATION_JSON)

@@ -4,11 +4,11 @@
         xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.services</groupId>
-    <artifactId>test111</artifactId>
+    <artifactId>asd</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>test111</name>
+    <name>asd</name>
     <url>http://maven.apache.org</url>
 
     <properties>
